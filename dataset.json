@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Rio Rancho in the Southwest with a population of over 104k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Rio Rancho, New Mexico, US",
+  "export_job_id": "4e0b4461-b8db-4f52-9620-54ae4ab12986",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 840021,
+  "location_name": "Rio Rancho",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-rio-rancho-new-mexico-us-sample-840021",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/840021/beamstation_840021_restaurants-us-nm_SAMPLE_DIST.csv",
+  "sample_pct": 9.62,
+  "sample_records": 20,
+  "sample_sha256": "1f2d3cf67d732a296bcca3ce9a1014e6d15e3b9d707a8c2881603ba6897574c1",
+  "sample_size_bytes": 82754,
+  "total_records": 208,
+  "updated_at": "2026-04-14T18:29:28.284203+00:00"
+}

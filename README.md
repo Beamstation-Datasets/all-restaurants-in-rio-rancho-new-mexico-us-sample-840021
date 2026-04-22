@@ -1,6 +1,6 @@
 # All Restaurants in Rio Rancho, New Mexico, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `840021` |
 | Location | Rio Rancho |
 | Category | Restaurants |
-| Full dataset size | 208 records |
-| Free sample size | 20 records (9.62%) |
-| Last export | 2026-04-14T18:29:28.284203+00:00 |
+| Full dataset size | 118 records |
+| Free sample size | 11 records (9.32%) |
+| Last export | 2026-04-21T20:19:39.396502+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rio-rancho-new-mexico-us-sample-840021/releases/download/sample-latest/beamstation_840021_restaurants-us-nm_SAMPLE_DIST.csv) |
 
 ## What is in this sample

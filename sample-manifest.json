@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9205a5e7-f295-4897-94d6-4ca3f8731420",
+  "export_job_id": "c9ecb176-801a-4026-ba3a-969e82bad210",
   "id_short": 840021,
-  "published_at": "2026-04-29T07:51:28Z",
+  "published_at": "2026-05-07T19:21:32Z",
   "repo_name": "all-restaurants-in-rio-rancho-new-mexico-us-sample-840021",
   "sample_asset_name": "beamstation_840021_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/840021/beamstation_840021_restaurants-us-nm_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "fa2bab3f9c2dc4d92fcc4f093e777cfeac01881cf5de06e494805a39419f1c4a",
-  "sample_size_bytes": 76690,
-  "total_records": 196
+  "sample_records": 21,
+  "sample_sha256": "dc17a3c382063d3f349eee62d0831531520fb568c647fc88ef59bc6b5e29725a",
+  "sample_size_bytes": 85823,
+  "total_records": 212
 }
